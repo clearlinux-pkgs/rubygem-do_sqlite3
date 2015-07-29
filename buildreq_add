@@ -1,0 +1,9 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-data_objects
+rubygem-rake-compiler
+rubygem-rspec
+rubygem-bundler
+rubygem-rdoc
+sqlite-autoconf-dev
