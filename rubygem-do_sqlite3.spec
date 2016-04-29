@@ -4,7 +4,7 @@
 #
 Name     : rubygem-do_sqlite3
 Version  : 0.10.17
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/do_sqlite3-0.10.17.gem
 Source0  : https://rubygems.org/downloads/do_sqlite3-0.10.17.gem
 Summary  : No detailed summary available
